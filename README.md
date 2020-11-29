@@ -1,2 +1,1 @@
-# devfolio-server
-devfolio server repository
+# Devfolio server
